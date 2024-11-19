@@ -9,7 +9,7 @@ Aplicación Principal (app_encuestas.py): Un programa completo que:
 Permite la gestión de respuestas de las encuestas mediante un conjunto de operaciones CRUD.
 Exporta los datos almacenados a un archivo Excel para un fácil análisis y uso externo.
 Genera gráficos visuales para interpretar mejor los resultados y tendencias de las encuestas.
-Funcionalidades Clave
+#Funcionalidades Clave
 Operaciones CRUD:
 
 Crear: Añadir nuevas respuestas.
@@ -22,12 +22,11 @@ Los datos de la encuesta pueden ser exportados a un archivo Excel con un solo cl
 Generación de Gráficos:
 
 Visualización de los datos mediante gráficos (de barras, circulares, etc.) para análisis estadísticos y presentación clara de los resultados.
-Instrucciones de Uso
 Ejecuta crear_bbdd.py para inicializar la base de datos.
 Ejecuta app_encuestas.py para gestionar las respuestas y analizar los datos.
 Este proyecto es ideal para aquellos que necesitan un sistema simple y efectivo para gestionar y analizar encuestas.
 
-Requisitos
+#Requisitos
 Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
 Python 3.7 o superior: Descargar e instalar Python
