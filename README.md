@@ -9,7 +9,7 @@ Aplicación Principal (app_encuestas.py): Un programa completo que:
 Permite la gestión de respuestas de las encuestas mediante un conjunto de operaciones CRUD.
 Exporta los datos almacenados a un archivo Excel para un fácil análisis y uso externo.
 Genera gráficos visuales para interpretar mejor los resultados y tendencias de las encuestas.
-#Funcionalidades Clave
+Funcionalidades Clave
 Operaciones CRUD:
 
 Crear: Añadir nuevas respuestas.
