@@ -26,3 +26,13 @@ Instrucciones de Uso
 Ejecuta crear_bbdd.py para inicializar la base de datos.
 Ejecuta app_encuestas.py para gestionar las respuestas y analizar los datos.
 Este proyecto es ideal para aquellos que necesitan un sistema simple y efectivo para gestionar y analizar encuestas.
+
+Requisitos
+Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
+
+Python 3.7 o superior: Descargar e instalar Python
+Bibliotecas de Python:
+sqlite3: Incluida en la instalación estándar de Python, para gestionar la base de datos.
+pandas: Para la exportación de datos a archivos Excel.
+matplotlib: Para la generación de gráficos visuales.
+Instalación de bibliotecas: Puedes instalar las bibliotecas necesarias ejecutando el siguiente comando:
